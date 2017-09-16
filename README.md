@@ -1,2 +1,2 @@
 # NjustBeamer_master
-latex version, for Njust reports
+latex, two vesions for njust academic and experimental reports
